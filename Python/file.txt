@@ -1,0 +1,4 @@
+Hello, World!
+My name is Galym
+I'm from Astana
+And I'm Data Analyst
